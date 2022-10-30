@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m @Okinboxme
-## Working at systemone ltd Software a Company
+## Working at systemone ltd Software  Company
 
 <!---
 Okinboxme/Okinboxme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
