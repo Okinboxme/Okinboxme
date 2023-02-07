@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @Okinboxme
+#### Hi, I’m @Okinboxme
 ## Working at systemone ltd Software  Company
 
 <!---
